@@ -1,0 +1,1 @@
+Simple game of life with react/ts. Used create react app for speed, might remove later.
